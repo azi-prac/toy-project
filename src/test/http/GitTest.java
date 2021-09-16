@@ -8,5 +8,7 @@ public class GitTest {
 	private static final String CONFLICT = "Conflict 테스트";
 	private static final String MERGETOOL = "merge tool 사용[local]";
 	
+	error
+	
 
 }
